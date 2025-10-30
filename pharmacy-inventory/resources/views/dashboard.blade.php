@@ -81,6 +81,8 @@
       ⚠️ Low Stock Medicines
     </button>
 
+
+
      <button id="addMedicineBtn" class="w-full text-left py-2 px-3 rounded-md hover:bg-emerald-50 hover:text-emerald-700 font-medium text-gray-700 transition">
   ➕ Add Medicine
 </button>
